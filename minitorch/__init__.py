@@ -15,3 +15,4 @@ from .tensor_functions import *  # noqa: F401,F403
 from .tensor_ops import *  # noqa: F401,F403
 from .testing import *  # noqa: F401,F403
 from .testing import MathTest, MathTestVariable  # type: ignore # noqa: F401,F403
+from .scalar import *  # noqa: F401,F403
